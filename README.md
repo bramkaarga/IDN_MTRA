@@ -1,7 +1,10 @@
 # IDN_MTRA
 Multihazard Transport Risk Analysis for road transport in Indonesia
 
-Attempts to adopt the approach presented in Koks et al., 2019, specifically for an Indonesia context.
+Attempts to adopt the approach presented in Koks et al., 2019, specifically for an Indonesia context. Most of the codes are adopted from the paper's Github repository (https://github.com/ElcoK/gmtra).
+
+
+
 
 
 =====References
